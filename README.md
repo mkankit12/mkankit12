@@ -92,17 +92,7 @@
     <td align="center" width="96">
       <a>
         <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40"/>
-      </a><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-102
-​
-103
-​
-104
-&nbsp;***LIVE PROJECTS ....***
-105
-><i>Click on ICON to preview.</i>
-106
-<br>
+      </a>
       <br>Heroku
     </td>
   </tr>
